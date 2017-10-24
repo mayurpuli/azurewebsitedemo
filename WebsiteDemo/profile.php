@@ -1,6 +1,6 @@
 <?php
 include('session.php');
-include('StorageAccess/listblobs.php');
+//include('StorageAccess/listblobs.php');
 ?>
 <!DOCTYPE html>
 <html>
